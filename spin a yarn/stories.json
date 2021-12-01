@@ -1,0 +1,97 @@
+{
+  "Animal Rescue": {
+    "story_path": "./stories/Animal Rescue",
+    "input_and_values": {
+      "Time": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__TIME__"
+      },
+      "Sibling": {
+        "type": "combo",
+        "value": ["sister", "brother"],
+        "replacement_id": "__SIBLING__"
+      },
+      "T.V. Show": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__TV_SHOW__"
+      },
+      "First Color": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__FIRST_COLOR__"
+      },
+      "Second Color": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__SECOND_COLOR__"
+      },
+      "Third Color": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__THIRD_COLOR__"
+      },
+      "Fourth Color": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__FOURTH_COLOR__"
+      },
+      "Type of chair": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__TYPE_OF_CHAIR__"
+      },
+      "Country": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__COUNTRY__"
+      },
+      "Animal": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__ANIMAL__"
+      },
+      "Parent": {
+        "type": "combo",
+        "value": ["father", "mother"],
+        "replacement_id": "__PARENT__"
+      },
+      "Day of week": {
+        "type": "combo",
+        "value": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "replacement_id": "__DAY_OF_WEEK__"
+      },
+      "Lunch": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__LUNCH__"
+      },
+      "Video Game": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__VIDEO_GAME__"
+      },
+      "A Name": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__A_NAME__"
+      },
+      "A make or model of car": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__A_MAKE_OR_MODEL_OF_CAR__"
+      },
+      "A number": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__A_NUMBER__"
+      },
+      "Another number": {
+        "type": "entry",
+        "value": "",
+        "replacement_id": "__ANOTHER_NUMBER__"
+      }
+    }
+  }
+}
